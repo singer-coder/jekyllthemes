@@ -1,10 +1,10 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
+name: singer-coder
+url: http://singer-coder.github.io
 description: Insert tagline here
 
 permalink: /themes/:title/
 
-gems: [jekyll-paginate]
+gems: [singer-coder]
 
 highlighter: pygments
 paginate: 20
